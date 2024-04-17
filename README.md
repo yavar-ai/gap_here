@@ -23,11 +23,11 @@ This package simplifies the process of creating spacing between widgets in Flutt
 
 ## Screenshots
 
-<!-- <div>
-  <img src="https://ruban-07.github.io/gaps/assets/images/samp1.jpg" width="300" />
-  <img src="https://ruban-07.github.io/gaps/assets/images/samp2.jpg" width="300" />
-  <img src="https://ruban-07.github.io/gaps/assets/images/samp3.jpg" width="300" />
-</div> -->
+<div>
+  <img src="https://ruban-07.github.io/gap_here/assets/images/samp1.jpg" width="300" />
+  <img src="https://ruban-07.github.io/gap_here/assets/images/samp2.jpg" width="300" />
+  <img src="https://ruban-07.github.io/gap_here/assets/images/samp3.jpg" width="300" />
+</div>
 
 ## Installation
 
