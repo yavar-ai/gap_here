@@ -1,4 +1,4 @@
-# `Gap Here` Package for Responsive Spacing
+# `Gap Here` 👉🏻 Responsive Spacing
 
 ![Version Badge](https://img.shields.io/pub/v/gap_here?color=green)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
@@ -13,7 +13,7 @@ A Flutter package for add spacing between widgets in row and column layouts, pro
 
 This package simplifies the process of creating spacing between widgets in Flutter apps.
 
-## Features
+## Features ⭐
 
 - Easily add spacing between widgets in both horizontal (row) and vertical (column) layouts.
 
@@ -21,7 +21,7 @@ This package simplifies the process of creating spacing between widgets in Flutt
 
 - Utilizes MediaQuery to provide percentage-based spacing, making it easy for users to specify spacing relative to the screen size. By default, the package uses MediaQuery to calculate spacing based on percentages, so users only need to provide a value like 0.1 (for 10%) or 0.5 (for 50%), eliminating the need for manual pixel calculations.
 
-## Screenshots
+## Screenshots 📸
 
 <div>
   <img src="https://ruban-07.github.io/gap_here/assets/images/samp1.jpg" width="300" />
@@ -35,7 +35,7 @@ To use this package, add `gap_here` as a dependency in your `pubspec.yaml` file.
 
 ```yaml
 dependencies:
-  gap_here: ^0.0.2
+  gap_here: ^0.0.3
 ```
 
 Then, import the package into your Dart code:
@@ -44,7 +44,7 @@ Then, import the package into your Dart code:
 import 'package:gap_here/gap_here.dart';
 ```
 
-## Usage
+## Usage 🛠️
 
 Wrap your widgets with `GapHere` and specify the desired spacing size as a percentage of the screen size.
 
@@ -68,7 +68,7 @@ Row(
 )
 ```
 
-## Example
+## Example 🫣
 
 Here's a simple example that shows how to use the `GapHere` widget:
 
@@ -110,13 +110,13 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-## Properties Usage
+## Properties Usage ⚙️
 
 `size` Specifies the size of the spacing to be added between widgets. The value should be provided as a double representing a percentage of the screen size.
 
 By default, the package internally uses MediaQuery to calculate spacing based on percentages, ensuring consistency across different screen sizes and resolutions.
 
-## Support
+## Support 🤝🏻
 
 - Android: Supported on SDK 16 and above.
 - iOS: Supported on iOS 11.0 and above.
