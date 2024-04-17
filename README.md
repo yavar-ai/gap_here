@@ -1,15 +1,15 @@
 # `Gap Here` Package for Responsive Spacing
 
-<!-- ![Version Badge](https://img.shields.io/pub/v/text_gradiate?color=green)
+![Version Badge](https://img.shields.io/pub/v/gap_here?color=green)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![GitHub repo](https://img.shields.io/badge/GitHub-purple?logo=github)](https://github.com/Ruban-07/text_gradiate)
+[![GitHub repo](https://img.shields.io/badge/GitHub-purple?logo=github)](https://github.com/Ruban-07/gap_here)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ruban-raghavendar-k/)
 [![Gmail](https://img.shields.io/badge/Gmail-Send%20Email-red?style=flat-square&logo=gmail)](mailto:rubanraghavendar@gmail.com)
 
 [![Android](https://img.shields.io/badge/Android-Supported-brightgreen)](https://developer.android.com/)
-[![iOS](https://img.shields.io/badge/iOS-Supported-brightgreen)](https://developer.apple.com/ios/) -->
+[![iOS](https://img.shields.io/badge/iOS-Supported-brightgreen)](https://developer.apple.com/ios/)
 
-A Flutter package for adding spacing between widgets in row and column layouts, promoting responsive design practices.
+A Flutter package for add spacing between widgets in row and column layouts, promoting responsive design practices.
 
 This package simplifies the process of creating spacing between widgets in Flutter apps.
 
@@ -35,7 +35,7 @@ To use this package, add `gap_here` as a dependency in your `pubspec.yaml` file.
 
 ```yaml
 dependencies:
-  gap_here: ^0.0.1
+  gap_here: ^0.0.2
 ```
 
 Then, import the package into your Dart code:
