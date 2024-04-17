@@ -1,4 +1,4 @@
-# Gap Here 👉🏻 _For Responsive Spacing_
+# Gap Here 👉🏻 For Responsive Spacing
 
 ![Version Badge](https://img.shields.io/pub/v/gap_here?color=green)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
