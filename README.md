@@ -1,4 +1,4 @@
-# `Gap Here` 👉🏻 Responsive Spacing
+# Gap Here 👉🏻 _For Responsive Spacing_
 
 ![Version Badge](https://img.shields.io/pub/v/gap_here?color=green)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
@@ -29,7 +29,7 @@ This package simplifies the process of creating spacing between widgets in Flutt
   <img src="https://ruban-07.github.io/gap_here/assets/images/samp3.jpg" width="300" />
 </div>
 
-## Installation
+## Installation 📦
 
 To use this package, add `gap_here` as a dependency in your `pubspec.yaml` file.
 
