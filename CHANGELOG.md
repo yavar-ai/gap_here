@@ -1,3 +1,7 @@
+## 0.0.6
+
+- Update Origin
+
 ## 0.0.5
 
 - Style Updation

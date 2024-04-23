@@ -35,7 +35,7 @@ To use this package, add `gap_here` as a dependency in your `pubspec.yaml` file.
 
 ```yaml
 dependencies:
-  gap_here: ^0.0.5
+  gap_here: ^0.0.6
 ```
 
 Then, import the package into your Dart code:
